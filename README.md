@@ -126,6 +126,7 @@ void loop()
   }
   else digitalWrite(led6,LOW);
 }
+```
  ### output:
 ![Screenshot (124)](https://user-images.githubusercontent.com/94154712/174293267-0a011248-ea92-4dc6-aa91-92ea7aa2533d.png)
 ### RESULTS : Thus the interfacing using FSR(force seensitive resistor) is simulated in tinker CAD
