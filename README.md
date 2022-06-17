@@ -126,7 +126,7 @@ void loop()
   }
   else digitalWrite(led6,LOW);
 }
- 
+ ## output:
 ![output](https://github.com/sasidharan403/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/main/Screenshot%20(124).png?raw=true)
 
 ### RESULTS : Thus the interfacing using FSR(force seensitive resistor) is simulated in tinker CAD
